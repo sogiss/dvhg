@@ -2,13 +2,13 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Online Payment</title>
-<link rel="stylesheet" href="css/index.css">	
+<link rel="stylesheet" href="css/html.css">	
 </head>
 <body style="direction: left;">
 <b><p id=h2>ONLINE PAYMENT</p></b>
 <div style="margin-right:auto;margin-left:auto;text-align:center;margin-top:150px;">
 
-<form method="post" action="save.html">
+<form method="post" action="save.php">
 	
 	<label for="name_1" id=g3>Card number</label>
 	<br>
